@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chadi619
 - 👀 I’m interested in programming and fitness
-- 🌱 I’m currently learning c and html&css
+- 🌱 I’m currently learning c 
 
 
 <!---
